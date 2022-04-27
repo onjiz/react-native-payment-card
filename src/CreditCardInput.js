@@ -43,7 +43,6 @@ const s = StyleSheet.create({
     color:"black",
     
     borderRadius: 4,
-    fontFamily: "Montserrat-Regular",
     display:"flex",
     alignItems:"center",
     justifyContent:"center",
@@ -78,13 +77,11 @@ const s = StyleSheet.create({
   },
 
   text:{
-    fontFamily: "Montserrat-Regular",
     color:"black",
     fontSize:12,
     // fontWeight:"bold"
   },
   textClicked:{
-    fontFamily: "Montserrat-Regular",
     color:"white",
     fontSize:12,
     // fontWeight:"bold"
